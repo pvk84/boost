@@ -77,6 +77,7 @@ run-tests libs :
     date_time/test              # test-suite date_time
     detail/test                 # test-suite detail
     disjoint_sets               # test-suite disjoint_sets
+    dll/test                    # test-suite dll
     dynamic_bitset              # test-suite dynamic_bitset
     endian/test                 # test-suite endian
     exception/test
@@ -97,6 +98,7 @@ run-tests libs :
     gil/test                    # test-suite gil
     graph/test                  # test-suite graph
     graph_parallel/test         # test-suite graph/parallel
+    hana/test                   # test-suite hana
     heap/test                   # test-suite heap
     icl/test                    # test-suite icl
     integer/test                # test-suite integer
